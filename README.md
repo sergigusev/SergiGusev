@@ -8,8 +8,9 @@ ____________________________________________________________________
 **Навигация:**  
 1. [Репозиторий с проектами Data Science](https://github.com/sergigusev/Data_Science_studying)  
 2. [Сертификаты о прохождении курсов](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/README.md)
-3. [Профиль на Kaggle](https://www.kaggle.com/sergeiigusev)
-4. [Профиль на LinkedIn](https://www.linkedin.com/in/sergigusev/)
+3. [Профиль на LinkedIn](https://www.linkedin.com/in/sergigusev/)
+4. [Профиль на Kaggle](https://www.kaggle.com/sergeiigusev)
+   
 _____________________________
 
 Sergei Gusev sergei22gusev@gmail.com
