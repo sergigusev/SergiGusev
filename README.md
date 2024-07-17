@@ -7,7 +7,7 @@
 ____________________________________________________________________
 **Навигация:**  
 1. [Репозиторий с проектами Data Science](https://github.com/sergigusev/Data_Science_studying)  
-2. [Сертификаты о прохождении курсов]()
+2. [Сертификаты о прохождении курсов](https://github.com/sergigusev/Data_Science_studying/blob/main/IT_certificates/README.md)
 3. [Профиль на Kaggle](https://www.kaggle.com/sergeiigusev)
 4. [Профиль на LinkedIn](https://www.linkedin.com/in/sergigusev/)
 _____________________________
