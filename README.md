@@ -15,7 +15,7 @@ _____________________________
 
 Sergei Gusev sergei22gusev@gmail.com
 
-telegram: https://t.me/sergusgus
+telegram: https://t.me/sergigusev
 <!--
 **sergigusev/SergiGusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
